@@ -1,0 +1,137 @@
+.header{
+	margin-top: 20px;
+}
+
+.signin{
+	border-radius: 3px;
+	color: white;
+	float: right;
+	background-color: #4E6DF9;
+	border: 0;
+	margin-right: 40px;
+	height: 1.9em;
+	width: 80px;
+	font-size: 1.2em;
+}
+
+.btn{
+	border: 0;
+	color: grey;
+	float: right;
+	margin-right: 15px;
+	height: 10px;
+	margin-top: -5px;
+}
+
+.container{
+	position: absolute;
+	top: 200px;
+}
+
+.row1{
+	margin-bottom: 30px;
+}
+.logo{
+	height: 110px;
+	width: 300px;
+}
+
+.images{
+	margin-top: 4px;
+	color: black;
+	float: right;
+	font-size: 1.2em;
+	margin-right: 15px;
+}
+
+.gmail{
+	margin-top: 4px;
+    margin-right: 15px; 
+    color: black; 
+    float: right;
+    font-size: 1.2em;
+}
+
+.footer{
+	position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%
+}
+
+footer{
+    background-color: #F4F6F7;
+    height: 40px;
+}
+
+hr{
+	border-color: #CCD1D1;
+	margin-bottom: 0px;
+}
+
+.advertising, .business, .about, .privacy, .terms, .settings{
+	color: #909497;
+	font-size: 1.1em;
+	margin-top: 9px;
+
+
+}
+
+.advertising, .business, .about{
+	float: left;
+	margin-left: 40px;
+}
+
+
+.privacy, .terms, .settings{
+	margin-right: 40px;
+	float: right;
+
+}	
+
+
+.mainSearch{
+	height: 44px;
+	width: 475px;
+	margin-left: : 200px;
+	border-color: #F3F3F5;
+	border-bottom-color: #E1E3E9; 
+	border-width: .3px;
+	box-shadow: 50px grey;
+
+}
+
+.searchButtons{
+	font-weight: bold;
+	margin-top: 35px;
+	color: #696969;
+	border: 0;
+}
+
+.googleSearch, .lucky{
+	border-radius: 3px;
+	background-color: #F3F4F9;
+	border: 0;
+	height: 35px;
+
+}
+
+.googleSearch{
+	width: 125px
+}
+
+.lucky{
+	width: 155px;
+	margin-left: 7px;
+}
+
+.languages{
+	margin-top: 30px;
+}
+
+.languages a{
+	color: #0A36F9;
+	margin-right: 7px;
+	}
+
+   	
