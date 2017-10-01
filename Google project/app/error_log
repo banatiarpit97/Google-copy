@@ -1,0 +1,2 @@
+[01-Oct-2017 00:44:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/banatith/public_html/Google-copy/Google project/app/index.php:63) in /home/banatith/public_html/Google-copy/Google project/app/index.php on line 77
+[01-Oct-2017 00:44:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/banatith/public_html/Google-copy/Google project/app/index.php:63) in /home/banatith/public_html/Google-copy/Google project/app/index.php on line 77
